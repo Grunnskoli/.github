@@ -7,10 +7,10 @@
 
 | Vika  | Verkefni  | Nr. | Tímar | Vægi % |
 |---|---|---|---|---|
-| 34  | Python env og Flask uppsetning  | 10  |  |  |
+| 34  | Python env og Flask uppsetning  | 1  | 8 | 10 |
 | 35  | Routing / Templates | 2 | 8  | 14  |
 | 36  | JSON - Dictionary, 	Query Strings | 3  | 8  | 14  |
-| 37  | API - JSON, Request Object | 4  | 6<sup>1</sup> |  |
+| 37  | API - JSON, Request Object | 4  | 6<sup>1</sup> | 14 |
 | 38  | Form og vaframinni | 5  | 8  | 14  |
 | 39  | Gagnagrunnar | 6  | 6<sup>2</sup>   |    |
 | 40  | Gagnagrunnur / Lokaverkefni | 6 / 7  | 2 / 6 | 14  |
