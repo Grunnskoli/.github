@@ -18,15 +18,15 @@
 |     | <sub>Námsmatsdagar, (1) 06/09 og (2) 28/09<br>(3) **Skil á lokaverkefni er 13. október**. - Spönn 1 lýkur  18/10 </sub> |  |  | 100%  |
 
 <!--
-#### 👋 [Undirbúningur og bjargir](https://github.com/vefgrunnur/Namsefni/wiki)
+#### 👋 [Undirbúningur og bjargir](https://github.com/vefumsjon/Namsefni/wiki)
+-->
+#### 👩‍💻 [Námsefni og sýnidæmi](https://github.com/vefumsjon/namsefni/)
 
-#### 👩‍💻 [Námsefni og sýnidæmi](https://github.com/vefgrunnur/namsefni/)
-
-#### 🧙 [Verkefni](https://github.com/vefgrunnur/verkefni/)
+#### 🧙 [Verkefni](https://github.com/vefumsjon/verkefni/)
 
 #### 🌈 Verkefnaskil: [Github.com/22VG](https://github.com/22vg)
 
 #### 🙋‍♀️ Stundatalfan er í [Innu](https://r.inna.is/) og einkunnir birtast þar.
 
--->
+
 
