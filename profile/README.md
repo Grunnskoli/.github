@@ -20,9 +20,7 @@
 <!--
 #### 👋 [Undirbúningur og bjargir](https://github.com/vefumsjon/Namsefni/wiki)
 -->
-#### 👩‍💻 [Námsefni og sýnidæmi](https://github.com/vefumsjon/namsefni/)
-
-#### 🧙 [Verkefni](https://github.com/vefumsjon/verkefni/)
+#### 🧙💻 [Verkefni, námsefni og sýnidæmi](https://github.com/vefumsjon/namsefni/)
 
 #### 🌈 Verkefnaskil: [Github.com/22VG](https://github.com/22vg)
 
