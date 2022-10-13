@@ -6,12 +6,12 @@
 
 | Vika  | Verkefni  | Nr. | Tímar | 
 |---|---|---|---|
-| 36 | Uppsetning vefþróunarsvæðis | 1 | 2 |
-| 37 | [HTML og CSS](https://github.com/Grunnskoli/Namsefni/tree/main/V-2)  | 2 | 2 |
-| 38 | [Myndvinnsla](https://github.com/Grunnskoli/Namsefni/tree/main/V-3) | 3 | 2 |
-| 39 | [Leturval og margmiðlunarefni](https://github.com/Grunnskoli/Namsefni/tree/main/V-4) | 4 | 2 |
-| 40 | [JavaScript kynning](https://github.com/Grunnskoli/Namsefni/tree/main/V-5) | 5 | 2 |
-| 41 | [Uppsetnig vefs á Internetið](https://github.com/Grunnskoli/Namsefni/tree/main/V-6) | 6 | 2 |
+| 42 | Uppsetning vefþróunarsvæðis | 1 | 2 |
+| 43 | [HTML og CSS](https://github.com/Grunnskoli/Namsefni/tree/main/V-2)  | 2 | 2 |
+| 44 | [Myndvinnsla](https://github.com/Grunnskoli/Namsefni/tree/main/V-3) | 3 | 2 |
+| 45 | [Leturval og margmiðlunarefni](https://github.com/Grunnskoli/Namsefni/tree/main/V-4) | 4 | 2 |
+| 46 | [JavaScript kynning](https://github.com/Grunnskoli/Namsefni/tree/main/V-5) | 5 | 2 |
+| 47 | [Uppsetnig vefs á Internetið](https://github.com/Grunnskoli/Namsefni/tree/main/V-6) | 6 | 2 |
 
 ## Námsefni
 
