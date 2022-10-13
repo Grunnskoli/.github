@@ -5,7 +5,7 @@
 #### 2022 haust
 
 | Vika  | Verkefni  | Nr. | Tímar | 
-| --- | --- | --- | --- | --- |
+|---|---|---|---|
 | 37 | Uppsetning vefþróunarsvæðis | 1 | 2 |
 | 38 | [HTML og CSS](/V-2/README.md)  | 2 | 2 |
 | 39 | [Myndvinnsla](/V-3/README.md) | 3 | 2 |
