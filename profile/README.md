@@ -53,7 +53,7 @@
 
 
 <!--
-#### 👋 [Undirbúningur og bjargir](https://github.com/vefumsjon/Namsefni/wiki)
+#### 👋 [Undirbúningur og bjargir](https://github.com/Grunnskoli/Namsefni/wiki)
 
 #### 🧙💻 [Verkefni, námsefni og sýnidæmi](https://github.com/vefumsjon/namsefni/)
 
