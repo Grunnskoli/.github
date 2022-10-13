@@ -16,8 +16,8 @@
 ## Námsefni
 
 1. Uppsetning vefþróunarsvæðis
-   * [Git og Github](https://github.com/gjg/vefgrunnur/wiki/N%C3%BDskr%C3%A1ning-%C3%A1-Github)
-   * [Uppsetning á Visual Studio Code](https://github.com/gjg/vefgrunnur/wiki/Undirbuningur)
+   * [Nýskráning á Github](https://github.com/Grunnskoli/Namsefni/wiki/N%C3%BDskr%C3%A1ning-%C3%A1-Github)
+   * [Uppsetning á Visual Studio Code](https://github.com/Grunnskoli/Namsefni/wiki/Undirbuningur)
    * [Vefþróunarsvæði sett á tölvu](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)    
 2. HTML og CSS
    * HTML vefsíða búin til
