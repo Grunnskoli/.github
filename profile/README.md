@@ -9,9 +9,9 @@
 | 37 | Uppsetning vefþróunarsvæðis | 1 | 2 |
 | 38 | [HTML og CSS](https://github.com/Grunnskoli/Namsefni/tree/main/V-2)  | 2 | 2 |
 | 39 | [Myndvinnsla](https://github.com/Grunnskoli/Namsefni/tree/main/V-3) | 3 | 2 |
-| 40 | [Leturval og margmiðlunarefni](/V-4/README.md) | 4 | 2 |
-| 41 | [JavaScript kynning](/V-5/README.md) | 5 | 2 |
-| 42 | [Uppsetnig vefs á Internetið](/V-6/README.md) | 6 | 2 |
+| 40 | [Leturval og margmiðlunarefni](https://github.com/Grunnskoli/Namsefni/tree/main/V-4) | 4 | 2 |
+| 41 | [JavaScript kynning](https://github.com/Grunnskoli/Namsefni/tree/main/V-5) | 5 | 2 |
+| 42 | [Uppsetnig vefs á Internetið](https://github.com/Grunnskoli/Namsefni/tree/main/V-6) | 6 | 2 |
 
 ## Námsefni
 
@@ -19,25 +19,25 @@
    * [Git og Github](https://github.com/gjg/vefgrunnur/wiki/N%C3%BDskr%C3%A1ning-%C3%A1-Github)
    * [Uppsetning á Visual Studio Code](https://github.com/gjg/vefgrunnur/wiki/Undirbuningur)
    * [Vefþróunarsvæði sett á tölvu](https://vefgrunnur.github.io/verkefnaskil/git_verklag.html)    
-2. [HTML og CSS](/V-2/README.md) 
+2. HTML og CSS
    * HTML vefsíða búin til
    * Stílsíða tengd við vefsíðu
    * Skipulag vefsíðu 
      * ```display:flex```
      * ```display:grid``` 
-3. [Myndvinnsla](/V-3/README.md)
+3. Myndvinnsla
    * myndir unnar í Photopea fyrir vefsíðu
    * myndir settar í vefsíðu
    * Skjáviðmið ```@media and (min-width:...)```  myndir aðlagast mismunandi skjástærðum
-4. [Leturval og margmiðlunarefni](/V-4/README.md)
+4. Leturval og margmiðlunarefni
    * Leturgerð valin frá [fonts.google.com](https://fonts.google.com/)
    * Hljóðskrá &lt;audio&gt; 
    * kvikmynd &lt;video&gt; (_Youtube_)
    * kort
-5. [JavaScript kynning](/V-5/README.md)
+5. JavaScript kynning
     * Hvað er JS?
     * JS æfingar
-6. [Uppsetnig vefs á Internetið](/V-6/README.md)
+6. Uppsetnig vefs á Internetið
    * Vefsíða birt á [user].github.io/
    * kynning á fljótandi hönnun með Jekill
 
