@@ -7,8 +7,8 @@
 | Vika  | Verkefni  | Nr. | Tímar | 
 |---|---|---|---|
 | 37 | Uppsetning vefþróunarsvæðis | 1 | 2 |
-| 38 | [HTML og CSS](/V-2/README.md)  | 2 | 2 |
-| 39 | [Myndvinnsla](/V-3/README.md) | 3 | 2 |
+| 38 | [HTML og CSS](https://github.com/Grunnskoli/Namsefni/tree/main/V-2)  | 2 | 2 |
+| 39 | [Myndvinnsla](https://github.com/Grunnskoli/Namsefni/tree/main/V-3) | 3 | 2 |
 | 40 | [Leturval og margmiðlunarefni](/V-4/README.md) | 4 | 2 |
 | 41 | [JavaScript kynning](/V-5/README.md) | 5 | 2 |
 | 42 | [Uppsetnig vefs á Internetið](/V-6/README.md) | 6 | 2 |
