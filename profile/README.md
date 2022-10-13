@@ -49,11 +49,12 @@
 * Einkunn er gefin fyrir verkefnin í Innu
 
 ## Bjargir 👍
-[Vefgrunnur-Wiki](https://github.com/GJG/Vefgrunnur/wiki)
+
+* [Undirbúningur og bjargir](https://github.com/Grunnskoli/Namsefni/wiki)
 
 
 <!--
-#### 👋 [Undirbúningur og bjargir](https://github.com/Grunnskoli/Namsefni/wiki)
+
 
 #### 🧙💻 [Verkefni, námsefni og sýnidæmi](https://github.com/vefumsjon/namsefni/)
 
