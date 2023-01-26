@@ -47,7 +47,7 @@
 * Einkunn er gefin fyrir verkefnin í Innu
 
 
-### * [Bjargir 👍](https://github.com/Grunnskoli/Namsefni/wiki)
+###  [Bjargir 👍](https://github.com/Grunnskoli/Namsefni/wiki)
 
 
 <!--
