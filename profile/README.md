@@ -43,12 +43,11 @@
 ## Kennslufyrirkomulag
 
 * Nemendur vinna verkefnin í kennslutímum
-* Verkefnum er skilað í **Eigin Github geymslu (_Repository_)**
+* Verkefnum er skilað í Innu 
 * Einkunn er gefin fyrir verkefnin í Innu
 
-## Bjargir 👍
 
-* [Undirbúningur og bjargir](https://github.com/Grunnskoli/Namsefni/wiki)
+### * [Bjargir 👍](https://github.com/Grunnskoli/Namsefni/wiki)
 
 
 <!--
