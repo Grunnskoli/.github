@@ -6,7 +6,7 @@
 
 | Vika  | Verkefni  | Nr. | Tímar | 
 |---|---|---|---|
-| 4 | Uppsetning vefþróunarsvæðis | 1 | 2 |
+| 4 | [Uppsetning vefþróunarsvæðis<br>Efnisval](https://github.com/Grunnskoli/Namsefni/tree/main/)  | 1 | 2 |
 | 5 | [HTML og CSS](https://github.com/Grunnskoli/Namsefni/tree/main/V-2)  | 2 | 2 |
 | 6 | [Myndvinnsla](https://github.com/Grunnskoli/Namsefni/tree/main/V-3) | 3 | 2 |
 | 7 | [Leturval og margmiðlunarefni](https://github.com/Grunnskoli/Namsefni/tree/main/V-4) | 4 | 2 |
@@ -15,8 +15,7 @@
 
 ## Námsefni
 
-1. Uppsetning vefþróunarsvæðis
-   * [Uppsetning á Visual Studio Code](https://github.com/Grunnskoli/Namsefni/wiki/Undirbuningur)   
+1. Uppsetning vefþróunarsvæðis og efnisval
 2. HTML og CSS
    * HTML vefsíða búin til
    * Stílsíða tengd við vefsíðu
