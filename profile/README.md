@@ -2,16 +2,16 @@
 
 ## Námsáætlun
 
-#### 2022 haust
+#### 2023 vor
 
 | Vika  | Verkefni  | Nr. | Tímar | 
 |---|---|---|---|
-| 42 | Uppsetning vefþróunarsvæðis | 1 | 2 |
-| 43 | [HTML og CSS](https://github.com/Grunnskoli/Namsefni/tree/main/V-2)  | 2 | 2 |
-| 44 | [Myndvinnsla](https://github.com/Grunnskoli/Namsefni/tree/main/V-3) | 3 | 2 |
-| 45 | [Leturval og margmiðlunarefni](https://github.com/Grunnskoli/Namsefni/tree/main/V-4) | 4 | 2 |
-| 46 | [JavaScript kynning](https://github.com/Grunnskoli/Namsefni/tree/main/V-5) | 5 | 2 |
-| 47 | [Uppsetnig vefs á Internetið](https://github.com/Grunnskoli/Namsefni/tree/main/V-6) | 6 | 2 |
+| 4 | Uppsetning vefþróunarsvæðis | 1 | 2 |
+| 5 | [HTML og CSS](https://github.com/Grunnskoli/Namsefni/tree/main/V-2)  | 2 | 2 |
+| 6 | [Myndvinnsla](https://github.com/Grunnskoli/Namsefni/tree/main/V-3) | 3 | 2 |
+| 7 | [Leturval og margmiðlunarefni](https://github.com/Grunnskoli/Namsefni/tree/main/V-4) | 4 | 2 |
+| 8 | [JavaScript kynning](https://github.com/Grunnskoli/Namsefni/tree/main/V-5) | 5 | 2 |
+| 9 | [Uppsetnig vefs á Internetið](https://github.com/Grunnskoli/Namsefni/tree/main/V-6) | 6 | 2 |
 
 ## Námsefni
 
