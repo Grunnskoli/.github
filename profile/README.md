@@ -1,5 +1,5 @@
 # Inngangur að vefforritun
-
+<!--
 ## Námsáætlun
 
 #### 2023 vor
@@ -49,7 +49,7 @@
 ###  [Bjargir 👍](https://github.com/Grunnskoli/Namsefni/wiki)
 
 
-<!--
+
 
 
 #### 🧙💻 [Verkefni, námsefni og sýnidæmi](https://github.com/vefumsjon/namsefni/)
